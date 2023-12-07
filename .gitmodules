@@ -1,0 +1,3 @@
+[submodule "wangshuyi_web"]
+	path = wangshuyi_web
+	url = https://github.com/comeputerwsy/wangshuyi_web.git
